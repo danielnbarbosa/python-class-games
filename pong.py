@@ -1,4 +1,5 @@
 # Implementation of classic arcade game Pong
+# Also available at http://www.codeskulptor.org/#user38_Y2lv4giWBo_7.py
 
 import simplegui
 import random

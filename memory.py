@@ -1,4 +1,5 @@
 # implementation of card game - Memory
+# Also available at http://www.codeskulptor.org/#user38_KfGDUKP3he_10.py
 
 """
 Explanation of game states:

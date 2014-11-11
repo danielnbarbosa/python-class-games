@@ -1,4 +1,5 @@
 # Mini-project #6 - Blackjack
+# Also available at http://www.codeskulptor.org/#user38_CfoPqPVnDy_9.py
 
 import simplegui
 import random

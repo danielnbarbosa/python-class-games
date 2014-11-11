@@ -1,4 +1,6 @@
 # implementation of Spaceship - program template for RiceRocks
+# Also available at http://www.codeskulptor.org/#user38_0UTgJq0HSX_3.py
+
 import simplegui
 import math
 import random
